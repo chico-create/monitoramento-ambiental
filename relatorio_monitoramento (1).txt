@@ -1,0 +1,51 @@
+RELATORIO DE MONITORAMENTO AMBIENTAL
+Ambiente: Sala de aula
+
+LIMITES DE REFERENCIA
+Temperatura: 21 a 26 °C
+Luminosidade: 300 a 500 lux
+Ruido maximo: 35 dB(A)
+
+LEITURAS REGISTRADAS
+
+Leitura 1:
+Temperatura: 24.0 °C
+Luminosidade: 400.0 lux
+Ruido: 30.0 dB
+
+Leitura 2:
+Temperatura: 28.0 °C
+Luminosidade: 250.0 lux
+Ruido: 40.0 dB
+
+Leitura 3:
+Temperatura: 23.0 °C
+Luminosidade: 350.0 lux
+Ruido: 32.0 dB
+
+ESTATISTICAS
+Temperatura - Media: 25.00 °C
+Temperatura - Maior: 28.0 °C
+Temperatura - Menor: 23.0 °C
+
+Luminosidade - Media: 333.33 lux
+Luminosidade - Maior: 400.0 lux
+Luminosidade - Menor: 250.0 lux
+
+Ruido - Media aritmetica: 34.00 dB
+Ruido - Maior: 40.0 dB
+Ruido - Menor: 30.0 dB
+
+ALERTAS
+Alertas de temperatura: 1
+Alertas de luminosidade: 1
+Alertas de ruido: 1
+
+Leituras criticas: 1
+Total de leituras: 3
+Porcentagem critica: 33.33%
+
+CLASSIFICACAO GERAL
+Condicoes ambientais de atencao.
+
+Observacao: a media de ruido e uma media aritmetica simples, utilizada apenas como estatistica descritiva.
