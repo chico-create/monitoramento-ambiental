@@ -60,9 +60,9 @@ Em seguida:
 
 ## 8. Integrantes
 
-- Nome: [Nome do integrante] – RM: [RM]
-- Nome: [Nome do integrante] – RM: [RM]
-- Nome: [Nome do integrante] – RM: [RM]
+- Nome: Wilian Aquiles – RM: 571177
+- Nome: Ethan Rodrigues – RM: 569448
+- Nome: Francisco Garcia – RM: 571541
 
 ## 9. Observação
 
