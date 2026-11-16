@@ -67,3 +67,11 @@ Em seguida:
 ## 9. Observação
 
 A média do ruído é uma média aritmética simples, utilizada apenas como estatística descritiva. O programa é uma simulação educacional e não substitui medições ambientais realizadas com equipamentos adequados.
+
+## 10. Referências técnicas
+
+- ABNT NBR 17037: referência para condições térmicas em ambientes climatizados.
+- ABNT NBR ISO/CIE 8995-1: referência para iluminação de ambientes de trabalho e salas de aula.
+- ABNT NBR 10152: referência para níveis de pressão sonora em ambientes internos.
+
+Os limites utilizados foram adotados para fins de simulação educacional e não representam uma avaliação técnica profissional.
