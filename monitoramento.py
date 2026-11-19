@@ -1,3 +1,11 @@
+# GLOBAL SOLUTION - 2026
+# COMPUTATIONAL THINKING FOR ENGINEERING
+# Engenharia Mecatronica
+
+# Integrantes:
+# Wilian Aquiles - RM: 571177
+# Ethan Rodrigues - RM: 569448
+# Francisco Garcia - RM: 571541
 
 # ==========================================
 # PROJETO: MONITORAMENTO AMBIENTAL
