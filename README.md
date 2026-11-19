@@ -75,3 +75,9 @@ A média do ruído é uma média aritmética simples, utilizada apenas como esta
 - ABNT NBR 10152: referência para níveis de pressão sonora em ambientes internos.
 
 Os limites utilizados foram adotados para fins de simulação educacional e não representam uma avaliação técnica profissional.
+
+## 11. Vídeo de apresentação
+
+Apresentação do projeto Global Solution 2026 - 2º Semestre.
+
+Link do vídeo: https://youtu.be/Cb6rxHsOKsI
